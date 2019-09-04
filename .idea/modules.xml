@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator (Java)/task/Smart_Calculator_(Java)-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator (Java)/task/Smart_Calculator_(Java)-task.iml" group="Smart_Calculator__Java_/Smart_Calculator_(Java)-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator (Java)/task/Smart_Calculator_(Java)-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator (Java)/task/Smart_Calculator_(Java)-task_main.iml" group="Smart_Calculator__Java_/Smart_Calculator_(Java)-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator (Java)/task/Smart_Calculator_(Java)-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator (Java)/task/Smart_Calculator_(Java)-task_test.iml" group="Smart_Calculator__Java_/Smart_Calculator_(Java)-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Smart_Calculator__Java_.iml" filepath="$PROJECT_DIR$/.idea/Smart_Calculator__Java_.iml" group="Smart_Calculator__Java_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Smart_Calculator__Java_/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Smart_Calculator__Java_/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Smart_Calculator__Java_/util" />
+    </modules>
+  </component>
+</project>
